@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Collection</string>
+
+    <string name="loop_for">For</string>
+
+    <string name="loop_while">While</string>
+
+    <string name="loop_for_each">For Each</string>
+
+    <string name="list">ArrayList</string>
+
+    <string name="list_custom">Custom ArrayList</string>
+
+</resources>

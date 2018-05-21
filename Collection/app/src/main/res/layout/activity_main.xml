@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.surajbokankar.collection.MainActivity"
+    android:orientation="vertical"
+    >
+
+
+    <android.support.v7.widget.AppCompatTextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/loop_for"
+        android:layout_marginBottom="8dp"
+        android:id="@+id/loop_for"
+        />
+
+
+
+    <android.support.v7.widget.AppCompatTextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/loop_while"
+        android:layout_marginBottom="8dp"
+        android:id="@+id/loop_while"
+        />
+
+
+    <android.support.v7.widget.AppCompatTextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/loop_for_each"
+        android:layout_marginBottom="8dp"
+        android:id="@+id/loop_for_each"
+        />
+
+
+
+    <android.support.v7.widget.AppCompatTextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/list"
+        android:layout_marginBottom="8dp"
+        android:id="@+id/loop_list"
+        />
+
+
+    <android.support.v7.widget.AppCompatTextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/list_custom"
+        android:layout_marginBottom="8dp"
+        android:id="@+id/loop_list_custom"
+        />
+
+</LinearLayout>
