@@ -11,4 +11,11 @@
 
     <string name="list_custom">Custom ArrayList</string>
 
+    <string name="set">Set</string>
+
+    <string name="set_mutable">Mutable Set</string>
+
+    <string name="set_immutable">ImMutable Set</string>
+    <string name="operator">Operator</string>
+
 </resources>
